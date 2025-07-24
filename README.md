@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # e-commerce
-=======
+
 # Basit E-Ticaret Sitesi
 
 Bu proje, React ve Vite kullanılarak oluşturulmuş basit bir e-ticaret sitesidir. Kullanıcılar ürünleri görebilir ve sepete ekleyebilir.
