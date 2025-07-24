@@ -21,5 +21,4 @@ npm run dev
 - `src/App.css`: Stil dosyası
 
 ## Notlar
-Bu proje örnek amaçlıdır. Geliştirmeye açıktır.
 >>>>>>> 2967ca7 (Initial project)
